@@ -5,7 +5,7 @@ import (
 )
 
 var (
-	example = []string {
+	example = []string{
 		"golang",
 		"hands-on",
 		"in",
